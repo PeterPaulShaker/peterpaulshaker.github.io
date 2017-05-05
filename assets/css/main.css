@@ -522,6 +522,7 @@
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			font-family: fantasy;
 		}
 
 		#header h2 {
@@ -529,6 +530,7 @@
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			font-family: monospace;
 		}
 
 		#header p {
